@@ -15,7 +15,7 @@ Built entirely with **Swift** and **SwiftUI**.
 ---
 
 ## 📸 Demo
-[![Watch the demo]]([https://drive.google.com/your-demo-link](https://drive.google.com/file/d/1Pukbc124IlSpON5Kv-O7YO3YzMXPv2ON/view?usp=drive_link))
+![Watch the demo]([https://drive.google.com/your-demo-link](https://drive.google.com/file/d/1Pukbc124IlSpON5Kv-O7YO3YzMXPv2ON/view?usp=drive_link))
 
 ---
 
